@@ -1,4 +1,4 @@
 # SnakeGame
-A traditional mobile snake game with Python
+A traditional mobile snake game by Python
 
 This is a junior python code with turtle library
